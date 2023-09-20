@@ -1,7 +1,7 @@
 # POLICY ITERATION ALGORITHM
 
 ## AIM
-Write the experiment AIM.
+To implement a policy iteration algorithm for the given MDP.
 
 ## PROBLEM STATEMENT
 Explain the problem statement.
